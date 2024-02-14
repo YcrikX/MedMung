@@ -39,6 +39,7 @@ client.on("ready", async () => {
         const r = new Discord.RichPresence()
             .setApplicationId('1121867777867788309')
             .setType('STREAMING')
+            .setURL('https://www.youtube.com/watch?v=AuI3W-H8j7Q')
             .setState(stateTexts[currentStateIndex])
             .setName('۞ 𝙰𝚂𝚃𝚁𝙾 𝙵𝙰𝙼')
             .setDetails(` ﹝ ⌚${currentTime} | 🖤 Ka  Ting - 𝓐$t๏r ﹞ `)
