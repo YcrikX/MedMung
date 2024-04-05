@@ -8,8 +8,8 @@ const app = express();
 const port = 8000;
 
 const largeImages = [
-    'https://media.discordapp.net/attachments/1203955104097501254/1207868392556724224/92f217eeece18109.gif?ex=65e13619&is=65cec119&hm=c0ea4acc856daa2f9a220150277bab92248c883035f5b3fe37e9921bd74835bb&=',
-    'https://media.discordapp.net/attachments/1203955104097501254/1207868393013649418/ab7f4204e8532d05d1ee01096c34bf94.gif?ex=65e1361a&is=65cec11a&hm=40d1bfb5ed8ba71c18bde5e2001b7a8c87f2e727c4aecf8be9233640bd9ee06c&=',
+    'https://media.discordapp.net/attachments/1203955104097501254/1225463502760706219/d241a9a505f57d89.gif?ex=662138d3&is=660ec3d3&hm=52c87c26f42c32bcd66b65a53d8f367f31c19a76752414056958252c3408ac6c&=',
+    'https://media.discordapp.net/attachments/1203955104097501254/1225463503251308544/Fate_Stay_Night_Heavens_Feel_Ii_Presage_Flower_GIF_-_Fate_Stay_Night_Heavens_Feel_II_Presage_Flower_SABERALTER_-_Discover__Share_GIFs.gif?ex=662138d3&is=660ec3d3&hm=3a01ecf1fdfdca468b2a188ead8768a0a79cc717e1cb49a2ecc0761a96687fd4&=',
     // Add more large image URLs as needed
 ];
 
