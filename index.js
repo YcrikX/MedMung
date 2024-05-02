@@ -8,8 +8,7 @@ const app = express();
 const port = 8000;
 
 const largeImages = [
-    'https://media.discordapp.net/attachments/1203955104097501254/1225463502760706219/d241a9a505f57d89.gif?ex=662138d3&is=660ec3d3&hm=52c87c26f42c32bcd66b65a53d8f367f31c19a76752414056958252c3408ac6c&=',
-    'https://media.discordapp.net/attachments/1203955104097501254/1225463503251308544/Fate_Stay_Night_Heavens_Feel_Ii_Presage_Flower_GIF_-_Fate_Stay_Night_Heavens_Feel_II_Presage_Flower_SABERALTER_-_Discover__Share_GIFs.gif?ex=662138d3&is=660ec3d3&hm=3a01ecf1fdfdca468b2a188ead8768a0a79cc717e1cb49a2ecc0761a96687fd4&=',
+    'https://media.discordapp.net/attachments/1235263507071504475/1235263739402387599/hyperdimension-neptunia-neptunia.gif?ex=6633bc81&is=66326b01&hm=4b1d82f04f33308a72bf546c7258fb01f8b9032cf6edd9fd5fb8efb3789118df&='
     // Add more large image URLs as needed
 ];
 
