@@ -8,7 +8,7 @@ const app = express();
 const port = 8000;
 
 const largeImages = [
-    'https://media.discordapp.net/attachments/779541011306250262/1235268665927139349/Review_MegadimensionNeptuniaVII00.gif?ex=66366418&is=66351298&hm=1ced46806c19aa1b046a36a133abc4090b56c17e4b3f178df5a60cb7dfc32d8d&='
+    'https://media.discordapp.net/attachments/1203955104097501254/1238734988552441907/8606d0464293d795e7846c1519bef96d.gif?ex=664ae95b&is=664997db&hm=1f3d3c6ae4482dc09a2401896cd0107ae3c69249846c87a09eed0f4b57af550d&='
     // Add more large image URLs as needed
 ];
 
